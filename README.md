@@ -36,8 +36,8 @@ Windows • Linux • macOS • PowerShell • Command Line • Networking Basic
 
 ## 📫 How to Reach Me
 - 🌐 **GitHub:** [s4mjx](https://github.com/s4mjx)  
-- 💼 **LinkedIn:** [linkedin.com/in/s4mjx](https://linkedin.com/in/s4mjx) *(create this when ready)*  
-- ✉️ **Email:** your.email@example.com *(replace with your real email)*  
+- 💼 **LinkedIn:** [https://linkedin.com/in/s4mjx](https://www.linkedin.com/in/christian-s-toledo-alvarez-0201ba359)
+- ✉️ **Email:** 
 
 ---
 
