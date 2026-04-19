@@ -1,43 +1,84 @@
-# Hi 👋, I'm Sam  
-### 💻 Aspiring IT Professional | CompTIA A+ Student | Tech Enthusiast  
+<div align="center">
+
+## Hi, I'm Sam 👾
+
+**Offensive Security | HTB Player | CJCA → OSCP Path**
+
+[![HTB](https://img.shields.io/badge/HackTheBox-c4mjx-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/TU-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-s4mjx-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s4mjx)
+[![X](https://img.shields.io/badge/X-s4mjx-000000?style=for-the-badge&logo=x)](https://x.com/s4mjx)
+
+</div>
 
 ---
 
-## 🧠 About Me
-I'm passionate about understanding how technology works — from hardware and operating systems to networks and cybersecurity.  
-Currently, I'm studying for the **CompTIA A+ certification** to build a solid foundation in IT support and troubleshooting.  
+### About
 
-My mission is to grow into a skilled IT professional who can solve real-world technical problems with precision, patience, and curiosity.
+Penetration tester in training working through HackTheBox machines and Sherlocks with full professional reporting. Every engagement follows a five-phase methodology — reconnaissance, enumeration, exploitation, post-exploitation, and reporting — with CVSSv3 scoring and MITRE ATT&CK mapping.
 
-**Languages:** English 🇺🇸 | Español 🇪🇸  
+Currently focused on **Active Directory attacks**, **Web Application Security**, and **DFIR**, building toward the HTB CJCA certification.
 
 ---
 
-## ⚙️ What I'm Learning
-- 🔹 CompTIA A+ (Core 1 & Core 2)
-- 🔹 Computer Hardware & Software Installation
-- 🔹 Network Fundamentals (TCP/IP, routers, switches)
-- 🔹 System Maintenance & Troubleshooting
-- 🔹 Cybersecurity Essentials
+### HTB Progress
+
+| | Machines | Sherlocks | Challenges |
+|---|---|---|---|
+| **Completed** | 4 | 2 | 1 |
+| **Platform** | HackTheBox | HackTheBox | HackTheBox |
+
+**Machines:** Meow · Fawn · Dancing · Lame · Legacy · Devel
+
+**Sherlocks:** Campfire-1 · Campfire-2
+
+> Full professional PDF reports in [My-Learning-Roadmap](https://github.com/s4mjx/My-Learning-Roadmap)
 
 ---
 
-## 🧰 Tools & Technologies
-Windows • Linux • macOS • PowerShell • Command Line • Networking Basics • Virtualization (VMware, VirtualBox)
+### Technical Skills
 
+```
+Offensive        │ nmap · metasploit · msfvenom · gobuster · ffuf · Burp Suite
+DFIR             │ chainsaw · PECmd · scca-info · Wireshark · Event Log analysis
+Active Directory │ Kerberoasting · AS-REP Roasting · SMB enumeration · BloodHound
+Scripting        │ Python · Bash
+Environments     │ Kali Linux · Arch Linux · Windows · bspwm
+```
+
+---
+
+### Certification Roadmap
+
+- [x] Starting HackTheBox
+- [ ] HTB CJCA — *In progress*
+- [ ] CompTIA Security+
+- [ ] OSCP — *2026 target*
+
+---
+
+### Latest Activity
+
+- 🔴 Completed **Campfire-2** (HTB Sherlock — DFIR)
+- 🔴 Completed **Campfire-1** (HTB Sherlock — Kerberoasting)
+- 🟢 Completed **Devel** (HTB Machine — Windows privesc)
+- 🟢 Completed **Legacy** (HTB Machine — MS08-067)
+
+---
+
+<div align="center">
+
+`"Discipline beats motivation."`
+
+📂 [Portfolio & Reports](https://github.com/s4mjx/My-Learning-Roadmap) · 
+📧 s4mjx.contact@proton.me
+
+</div>
 ---
 
 ## 📈 GitHub Stats
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4mjx&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4mjx&layout=compact&theme=tokyonight)
-
----
-
-## 📫 How to Reach Me
-- 🌐 **GitHub:** [s4mjx](https://github.com/s4mjx)  
-- 💼 **LinkedIn:** [https://linkedin.com/in/s4mjx](https://www.linkedin.com/in/christian-s-toledo-alvarez-0201ba359)
-- ✉️ **Email:** [s4mjx.contact@proton.me]
 
 ---
 
