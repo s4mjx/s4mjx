@@ -4,7 +4,7 @@
 
 **Offensive Security & Defensive Security | HTB Player | CJCA → OSCP Path**
 
-[![HTB](https://img.shields.io/badge/HackTheBox-c4mjx-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/TU-ID)
+[![HTB](https://img.shields.io/badge/HackTheBox-c4mjx-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1975686)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-s4mjx-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/christian-s-toledo-alvarez-489892404)
 [![X](https://img.shields.io/badge/X-s4mjx-000000?style=for-the-badge&logo=x)](https://x.com/s4mjx)
 
