@@ -2,7 +2,7 @@
 
 ## Hi, I'm Sam 👾
 
-**Offensive Security | HTB Player | CJCA → OSCP Path**
+**Offensive Security & Defencive Security | HTB Player | CJCA → OSCP Path**
 
 [![HTB](https://img.shields.io/badge/HackTheBox-c4mjx-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/TU-ID)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-s4mjx-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/s4mjx)
