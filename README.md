@@ -50,9 +50,14 @@ Environments     │ Kali Linux · Arch Linux · Windows · bspwm
 ### Certification Roadmap
 
 - [x] Starting HackTheBox
+- [ ] CompTIA A+ *In progress*
+- [ ] CompTIA Network+ *In progress*
 - [ ] HTB CJCA — *In progress*
-- [ ] CompTIA Security+
-- [ ] OSCP — *2026 target*
+- [ ] CompTIA Security+ *Planned*
+- [ ] HTB CPTS *Planned*
+- [ ] HTB CDSA
+- [ ] HTB CAPE 
+- [ ] OSCP — *2027 target*
 
 ---
 
