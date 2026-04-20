@@ -72,20 +72,3 @@ Environments     │ Kali Linux · Arch Linux · Windows · bspwm
 📂 [Portfolio & Reports](https://github.com/s4mjx/My-Learning-Roadmap) · 
 📧 s4mjx.contact@proton.me
 
-</div>
----
-
-## 📈 GitHub Stats
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4mjx&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4mjx&layout=compact&theme=tokyonight)
-
----
-
-## 🌍 En Español
-Soy Sam, un estudiante de IT que actualmente se prepara para la certificación **CompTIA A+**.  
-Me apasiona aprender cómo funcionan las computadoras, los sistemas y las redes desde adentro.  
-Mi objetivo es convertirme en un profesional de tecnología capaz de brindar soporte técnico eficiente y soluciones reales.  
-
-> “Knowledge isn’t power until it’s applied.” — Dale Carnegie
-
