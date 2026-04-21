@@ -103,5 +103,3 @@ Environments  | Kali Linux · Arch Linux · Windows · bspwm
   <a href="mailto:s4mjx.contact@proton.me">🔵 s4mjx.contact@proton.me</a>
 </p>
 
-`"Discipline beats motivation."`
-
