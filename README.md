@@ -1,17 +1,14 @@
 <h1 align="center">Hi, I'm Sam 👾</h1>
 
 <p align="center">
-  <strong>Offensive Security &amp; Defensive Security student | HTB Player | CJCA → OSCP Path</strong>
+  <strong>Offensive Security &amp; Defensive Security Student | HTB Player | CJCA → OSCP Path</strong>
 </p>
 
 <p align="center">
-  <a href="https://app.hackthebox.com/users/s4mjx">
+  <a href="https://app.hackthebox.com/users/1975686">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="HackTheBox">
   </a>
-  <a href="https://c4mjx.dev">
-    <img src="https://img.shields.io/badge/C4MJX-1b6ac9?style=flat-square&logo=hashnode&logoColor=white" alt="C4MJX">
-  </a>
-  <a href="https://linkedin.com/in/s4mjx">
+  <a href="https://linkedin.com/in/christian-s-toledo-alvarez-489892404">
     <img src="https://img.shields.io/badge/LinkedIn-s4mjx-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/s4mjx">
@@ -107,7 +104,4 @@ Environments  | Kali Linux · Arch Linux · Windows · bspwm
 </p>
 
 `"Discipline beats motivation."`
-
-📂 [Portfolio & Reports](https://github.com/s4mjx/My-Learning-Roadmap) · 
-📧 s4mjx.contact@proton.me
 
